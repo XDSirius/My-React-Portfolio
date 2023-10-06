@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import About from './pages/MyWork';
-import Blog from './pages/Blog';
+import Blog from './pages/Resume';
 import Contact from './pages/Contact';
 import AboutMe from './pages/AboutMe';
 import MyWork from './pages/MyWork';
+import Resume from './pages/Resume';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('AboutMe');
@@ -17,8 +18,8 @@ export default function PortfolioContainer() {
     if (currentPage === 'MyWork') {
       return <MyWork />;
     }
-    if (currentPage === 'Blog') {
-      return <Blog />;
+    if (currentPage === 'Resume') {
+      return <Resume />;
     }
     return <Contact />;
   };
