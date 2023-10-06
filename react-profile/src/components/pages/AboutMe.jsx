@@ -4,6 +4,7 @@ export default function AboutMe() {
   return (
     <div>
       <h1>About Me</h1>
+      <img src='src/assets/pic.jpg' alt='profile pic'></img>
       <p>
         I'm Yasmin! I am an aspiring software engineer. I have no college background in coding, but I have taken 3 coding bootcamps and have taken a self-taught route to gain the knowledge I have thus far. Currently I am attending a Full Stack program through the University of Minnesota. It's been a journey and a blessing these 6 months I have attended this bootcamp. I graduate late October 2023. 
         </p>
