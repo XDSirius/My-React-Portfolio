@@ -10,7 +10,7 @@ export default function AboutMe() {
         </p>
         <br></br>
         <p>
-        Preservering despite life's obstacles on and off through these years, learning how to code and build websites, I have shown tenancity and grit. I am determined to be an expert in the field. Coding has become my life. Once, programming was my enemy, but now it is my passion. 
+        Persevering despite life's obstacles on and off through these years, learning how to code and build websites, I have shown tenancity and grit. I am determined to be an expert in the field. Coding has become my life. Once, programming was my enemy, but now it is my passion. 
       </p>
       <br></br>
 
